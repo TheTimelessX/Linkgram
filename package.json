@@ -1,0 +1,24 @@
+{
+  "name": "linkgram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTimelessX/Linkgram.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TheTimelessX/Linkgram/issues"
+  },
+  "homepage": "https://github.com/TheTimelessX/Linkgram#readme",
+  "dependencies": {
+    "uuid": "^11.1.0"
+  }
+}

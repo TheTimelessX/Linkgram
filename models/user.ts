@@ -1,3 +1,5 @@
+import { Photo } from "./photo";
+
 export interface User {
     first_name: string;
     last_name: string;
@@ -8,4 +10,5 @@ export interface User {
 
 export interface SensetiveUser extends User {
     auth_token: string;
+    profile_photo?: Photo;
 }
